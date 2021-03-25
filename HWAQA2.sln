@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWAQA2", "HWAQA2\HWAQA2.csproj", "{90151945-B931-423E-8723-7C184FA86675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90151945-B931-423E-8723-7C184FA86675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90151945-B931-423E-8723-7C184FA86675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90151945-B931-423E-8723-7C184FA86675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90151945-B931-423E-8723-7C184FA86675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277AB995-CDC9-4124-8DDF-26640C06DF01}
+	EndGlobalSection
+EndGlobal
