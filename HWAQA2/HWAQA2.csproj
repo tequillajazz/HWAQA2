@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="CompareCircleToRectangle.cs" />
+    <Compile Include="ConditionsToFitItems.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Run.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
